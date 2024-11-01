@@ -1,0 +1,12 @@
+{
+  "include": ["scripts/**/*"],
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2021",
+    "lib": ["ES2021", "DOM"],
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  }
+}
